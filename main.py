@@ -48,12 +48,6 @@ def main() -> None:
         for obj in drawable:
             obj.draw(screen)
 
-
-        screen.fill("black")
-
-        for obj in drawable:
-            obj.draw(screen)
-
         pygame.display.flip()
 
         # limit the framerate to 60 FPS
