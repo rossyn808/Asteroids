@@ -4,3 +4,4 @@ LINE_WIDTH = 2
 
 PLAYER_RADIUS = 20
 PLAYER_TURN_SPEED = 300  # degrees per second
+PLAYER_SPEED = 200  # pixels per second
